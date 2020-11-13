@@ -1,7 +1,6 @@
 clc; clear all;
 load('SALMAPS3.mat');
-% SALMAPS = SALMAPS_SHAFIN_SIR;
-% sal_model = "CovSal";
+
 img_index = [];
 for i=1:100
     img_index = [img_index convertCharsToStrings(SALMAPS(i).imageNumber)];

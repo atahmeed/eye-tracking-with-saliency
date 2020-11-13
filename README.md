@@ -5,6 +5,8 @@ This repository contains the code for the conference paper presented in Internat
 
 *Shafin Rahman, Sejuti Rahman, Omar Shahid, Md. Tahmeed Abdullah and Jubair Ahmed Sourov "Classifying Eye-Tracking Data Using Saliency Maps", ICPR, 2020*
 
+[Read the arXiv version of the paper](https://arxiv.org/pdf/2010.12913.pdf)
+
 #### To cite the arXiv version
 ```
 @misc{rahman2020classifying,
@@ -19,6 +21,10 @@ This repository contains the code for the conference paper presented in Internat
 ```
 
 ## Datasets
+
++ [Sliency4ASD](ftp://saliency4ASD:S4L13ncy@ftp.ivc.polytech.univ-nantes.fr/)
++ [Toddlers Viewing Natural Scenes](https://osf.io/ugvj4/)
++ 
 
 ## Extract Features
 
