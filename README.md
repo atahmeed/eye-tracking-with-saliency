@@ -1,4 +1,8 @@
 # Classifying Eye-Tracking Data Using Saliency Maps
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 This repository contains the code for the conference paper presented in International Conference on Pattern Recognition
 (ICPR) :
 
