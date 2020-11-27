@@ -1,6 +1,6 @@
 # Classifying Eye-Tracking Data Using Saliency Maps
 
-![Diagram of Proposed Model](proposed_model.png)
+![Diagram of Proposed Model](Images/proposed_model.png)
 
 This repository contains the code for the conference paper presented in International Conference on Pattern Recognition
 (ICPR) :
@@ -28,9 +28,11 @@ This repository contains the code for the conference paper presented in Internat
 + [Toddlers Viewing Natural Scenes](https://osf.io/ugvj4/)
 + Visual Perceptual Task Dataset
 
-## How to Extract Features?
+## Extracted Features
 
-## Classification
+The extracted features are [available here](https://bit.ly/39n9Zuy)
 
+## Code
 
+Coming Soon
 
